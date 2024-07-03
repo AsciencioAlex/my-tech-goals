@@ -149,4 +149,12 @@ footer p {
         height: 100px;
     }
 
-    .details p
+    .details p {
+        font-size: 1em;
+    }
+
+    #links .links a {
+        margin: 5px;
+        padding: 8px 10px;
+    }
+}
